@@ -9,4 +9,5 @@ Steps to reproduce:
 3. Look at the order total
 
 Expected: Coupon is rejected and the total does not change
-Actual:
+Actual: Coupon accepted, a 10 percent discount was applied to the total
+Status: VERIFIED - FAIL
