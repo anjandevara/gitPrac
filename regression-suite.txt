@@ -1,0 +1,6 @@
+R-01 Login with valid credentials
+R-02 Login with an invalid password
+R-03 Add a single item to the cart
+R-04 Apply a valid coupon
+R-05 Checkout with a saved card
+R-06 Checkout as a guest

@@ -1,0 +1,3 @@
+Feature: Checkout
+Browser: Chrome
+Status: READY TO TEST
