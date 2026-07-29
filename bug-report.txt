@@ -1,0 +1,12 @@
+Ticket: BUG-184
+Title: Expired coupon still applies discount
+Environment: Staging
+Status: OPEN
+
+Steps to reproduce:
+1. Add any item to the cart
+2. Apply the expired coupon EXPIRED10
+3. Look at the order total
+
+Expected: Coupon is rejected and the total does not change
+Actual:
